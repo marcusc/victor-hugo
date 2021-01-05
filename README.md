@@ -1,5 +1,7 @@
 # Victor Hugo
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eb5345fa-9b9f-4ef8-b852-a50bdb6800e1/deploy-status)](https://app.netlify.com/sites/commemoro/deploys)
+
 **A Hugo boilerplate for creating truly epic websites**
 
 This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline.
