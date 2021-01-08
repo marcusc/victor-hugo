@@ -2,3 +2,6 @@ node_modules/
 dist/
 site/data/webpack.json
 .DS_Store
+
+# Local Netlify folder
+.netlify
